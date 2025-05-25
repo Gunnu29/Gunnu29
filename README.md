@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/garvita-batra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhawal jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/garvita-batra-742b33285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhawal jain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its.gunnu7?igsh=eDd6OGZpY215M2Yw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhawal_2204" height="30" width="40" /></a>
 </p>
 
